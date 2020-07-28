@@ -1,0 +1,21 @@
+.home-header.segment {
+	min-height: 700px;
+	border: 0em;
+	border-radius: 0px;
+}
+.search-bar{
+	width: 30%;
+}
+.home-header h1.ui.header {
+	margin-top: 2em;
+	margin-bottom: 0em;
+	font-size: 6em;
+}
+.home-header h2 {
+	font-size: 1.7em;
+	margin-top: 0em;
+}
+.home-header {
+	background-image: url('https://images.unsplash.com/photo-1454496522488-7a8e488e8606?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1055&q=80') !important;
+	background-size: cover !important;
+}
